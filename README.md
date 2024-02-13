@@ -6,7 +6,7 @@ A summary of some useful resources in research.
 
 - [Papers](#papers)
   - [Overview](#survey)
-  - [](#foundation-models)
+  - [RAG Framework](#rag-framework)
 
 ## Papers
 
@@ -17,8 +17,8 @@ A summary of some useful resources in research.
   *Yunfan Gao, Yun Xiong, Xinyu Gao, ..., Qianyu Guo, Meng Wang, Haofan Wang*
 
 
-### RAG Framework
+### RAG-Framework
 
 - **Retrieval-Augmented Thought Process as Sequential Decision Making**  
-  ![](https://img.shields.io/badge/Decoder_Only-orange) *University of Cambridge, The Alan Turing Institute - 2024.02 - [[arxiv](https://arxiv.org/pdf/2402.07812.pdf)]*  
+  *University of Cambridge, The Alan Turing Institute - 2024.02 - [[arxiv](https://arxiv.org/pdf/2402.07812.pdf)]*  
   *Thomas Pouplin, Hao Sun, Samuel Holt, Mihaela Van der Schaar*
