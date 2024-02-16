@@ -17,13 +17,15 @@ A summary of some useful resources in research.
   *Tongji University, Fudan University - 2023.12 - [[arxiv](https://arxiv.org/pdf/2312.10997.pdf)]*   
   *Yunfan Gao, Yun Xiong, Xinyu Gao, ..., Qianyu Guo, Meng Wang, Haofan Wang*
 
+- **Large Language Models for Information Retrieval: A Survey**  
+  *Renming University - 2023.08 - [[arxiv](https://arxiv.org/pdf/2308.07107.pdf)]*  
+  *Yutao Zhu, Huaying Yuan, SHuting Wang, ..., Ji-Rong Wen*  
 
 ### RAG-Framework
 
 - **Retrieval-Augmented Thought Process as Sequential Decision Making**  
   *University of Cambridge, The Alan Turing Institute - 2024.02 - [[arxiv](https://arxiv.org/pdf/2402.07812.pdf)]*  
   *Thomas Pouplin, Hao Sun, Samuel Holt, Mihaela Van der Schaar*
-
 
 ### Graph-Augmented
 
