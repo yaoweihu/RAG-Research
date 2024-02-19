@@ -39,4 +39,4 @@ A summary of some useful resources in research.
 
 ### Resource
 
-- **[Sentence-Transformers](sbert.net/index.html)**
+- **[Sentence-Transformers](http://sbert.net/index.html)**
